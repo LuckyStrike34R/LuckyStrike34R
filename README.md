@@ -40,8 +40,6 @@ Work experience:
 VK Testers
 Volgograd, vk.com/testers
 
-Information technology, system integration, Internet... Show more
-
 Software Tester
 Testing VK web/mobile services
 The Front/Back Ratio is 80/20
